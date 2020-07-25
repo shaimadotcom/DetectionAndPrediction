@@ -1,1 +1,5 @@
-# <p align="center"> tf.keras</p>
+# <p align="center">tf.keras</p>
+
+### <div dir="rtl">*tf.keras* هو مستوى عالي من واجهة برمجة التطبيقات وهنا سندرب شبكة عصوبنية لتتعرف على صور لقطع من ملابس متنوعة</div>
+
+
