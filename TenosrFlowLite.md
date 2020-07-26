@@ -26,7 +26,7 @@
 
 ####  <div dir="rtl">4.اذهب لبيئة التطوير و اربط جهازك الايفون فيها حيث أن التطبيق يحتاج جهاز مزود بكاميرا و إلا لن يعمل</div>
 ####  <div dir="rtl">5.اذهب للكونفيقريشن وعدل التعريف حيث يجب أن يكون مميز</div>
-####  <div dir="rtl">6. عندما تبدأ بتشغيله سيطلب منك السماح بالدخول الى حسابك في مطوروابل ثم يجب أن تسمح له أيضابالدخول الى الايتونز والسماح له باستخدام كاميرة هاتفك </div>
+####  <div dir="rtl">6. عندما تبدأ بتشغيله سيطلب منك السماح بالدخول الى حسابك في مطورابل ثم يجب أن تسمح له أيضابالدخول الى الايتونز والسماح له باستخدام كاميرة هاتفك </div>
 
 ====================================================================
 
@@ -36,7 +36,7 @@
 
 
 
-<img src="https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/IMG_0378.jpg?token=AP3ATLESQOBI7J2RXRX6XQS7DW4FC" width="148" height="220">
+<img src="https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/IMG_0378.jpg?token=AP3ATLESQOBI7J2RXRX6XQS7DW4FC" width="297" height="420">
 
 <img src="https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/IMG_0374.jpg?token=AP3ATLEHHQPAZBBLDOINAEK7DW4CC" width="148" height="220">
 
