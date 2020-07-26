@@ -20,6 +20,7 @@ fashion_mnist = keras.datasets.fashion_mnist
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
  ```
+ #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين "بيانات تدريب"و "وبيانات إختبار" </div>
  
  #### <div dir="rtl">يتم تعيين اسم واحد لكل صورة (وتوجد9صور) ويتم حفظها "كمتغير" حتّى نتمكّن من إستخدامها لاحقا عند رسم النتائج أو البيانات أو الصّور</div>
  ``` 
@@ -28,7 +29,7 @@ class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
 
 
  ```
- 
+ ![alt text](https://www.tensorflow.org/tutorials/keras/classification_files/output_oZTImqg_CaW1_0.png?hl=ar)
  #### <div dir="rtl">قبل البدأ بالتدريب يجب خفض قيمة البكسلات من نطاقها الحاليّ من 0 إلى 255 وذلك بقسمتها على 255</div>
  ``` 
 train_images = train_images / 255.0
@@ -53,7 +54,8 @@ model.compile(optimizer='adam',
   ###### <div dir="rtl">ساستخدم خوارزمية ادم لانه يحقق نتائج جيدة بسرعة</div>
   ==========================================================================
    
-  #### <div dir="rtl">تدريب النموذج لشبكة عصبية يتطلب منك إطعام بيانات التدريب  للنموذج ليتعلم العلاقة بين المسميات والصور</div>
+  #### <div dir="rtl">تدريب النموذج لشبكة عصبية يتطلب منك إطعام "بيانات التدريب"  للنموذج ليتعلم العلاقة بين المسميات والصور</div>
   ```model.fit(train_images, train_labels, epochs=10)```
   
+   ###### <div dir="rtl">و الان يبدأ التدريب</div>
   
