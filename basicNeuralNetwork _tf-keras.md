@@ -29,4 +29,31 @@ class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
 
  ```
  
+ #### <div dir="rtl">قبل البدأ بالتدريب يجب خفض قيمة البكسلات من نطاقها الحاليّ من 0 إلى 255 وذلك بقسمتها على 255</div>
+ ``` 
+train_images = train_images / 255.0
+
+test_images = test_images / 255.0
+
+ ```
  
+  #### <div dir="rtl">لنبني نموذج يجب تعديل الطبقات النموذج ثم تجميعها</div>
+ ``` 
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='relu'),
+    keras.layers.Dense(10)
+])
+
+model.compile(optimizer='adam',
+              loss=tf.keras.losses.SparseCategoricalCrossentropy(from_logits=True),
+              metrics=['accuracy'])
+
+ ```
+  ###### <div dir="rtl">ساستخدم خوارزمية ادم لانه يحقق نتائج جيدة بسرعة</div>
+  ==========================================================================
+   
+  #### <div dir="rtl">تدريب النموذج لشبكة عصبية يتطلب منك إطعام بيانات التدريب  للنموذج ليتعلم العلاقة بين المسميات والصور</div>
+  ```model.fit(train_images, train_labels, epochs=10)```
+  
+  
