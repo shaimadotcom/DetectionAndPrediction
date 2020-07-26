@@ -15,8 +15,8 @@
 ####  <div dir="rtl">وتستطيع تثبيت أشياء أخرى لتساعدك في تنسرفلو</div>
 
 ```pip install pillow
-pip install lxml
-pip install Cython
-pip install contextlib2
-pip install jupyter
-pip install matplotlib ```
+   pip install lxml
+   pip install Cython
+   pip install contextlib2
+   pip install jupyter
+   pip install matplotlib```
