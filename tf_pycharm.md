@@ -25,9 +25,15 @@
 ###### <div dir="rtl">*تستطيع اختصار هذه الخطوات بتحميل ملف tensorflow.yaml*</div>
 ================================================
 ####  <div dir="rtl">افتح بايشارم واختر"مشروع جديد"</div>
-![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(31).png?token=AP3ATLHY2TBXGTKATS7TTMS7DYKRQ)
-![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png?token=AP3ATLH7NO7LAGNDJL7JQ427DYKTK)
-![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?token=AP3ATLHS4OPZY6RWEFASY227DYKWS)
+
+![nm](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(31).png?token=AP3ATLHY2TBXGTKATS7TTMS7DYKRQ)
+
+
+![ia](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png?token=AP3ATLH7NO7LAGNDJL7JQ427DYKTK)
+
+
+![ib](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?token=AP3ATLHS4OPZY6RWEFASY227DYKWS)
+
 ![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(36).png?token=AP3ATLG2YS6E3XQOJV67F4K7DYLS4)
 
 -------------------------------------------------------------------------------------
