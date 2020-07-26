@@ -2,7 +2,7 @@
 
 ### <div dir="rtl">*tf.keras* هو مستوى عالي من واجهة برمجة التطبيقات وهنا سندرب شبكة عصوبنية لتتعرف على صور لقطع من ملابس متنوعة</div>
 
-====================================================================================
+===============================================================================
 
 #### <div dir="rtl">سنستخدم اصدار تنسرفلو 2.0.0 وبعض المكتبات المساعدة</div> 
 ``` 
@@ -72,4 +72,13 @@ model.compile(optimizer='adam',
   ###### <div dir="rtl">يمكنك الان بعد انهاء تدريب نموذجك أن تجعله يقوم بتنبأت وكل تنبؤ  يكون داخل صفيفة متكوّن من 10 أرقام. و هي تمثّل مدى ثقة النموذج بأنّ الصورة تتوافق مع كل صورة و تسميتها</div>
 ```predictions = probability_model.predict(test_images)```
 
- #### <div dir="rtl">لتجربة </div>
+ ## <div dir="rtl">تجربة النموذج </div>
+ 
+ #### <div dir="rtl">لبدأ التجربة فقط أكتب الأمر التالي و سيبدأ بإظهار صورة مع المسمى اللذي تنبأ به و تحت الصورة سيظهر المسمى الصحيح وكل ماعليك فعله هو النقر على علامة x </div>
+ #### <div dir="rtl">وستظهر لك صورة جديدة و تستطيع تكرار هذا لين تطفش ثم تستطيع إنهاء التجربة </div>
+ 
+ ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/screenshot%20(5).jpg?token=AP3ATLD3J7CYILB5CSF54327DWMSC)
+ ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/screenshot%20(2).jpg?token=AP3ATLFPREZNPDKZENC6QKS7DWMUS)
+ ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/screenshot%20(3).jpg?token=AP3ATLAAM2MHV5745DIEW427DWMXO)
+ ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/screenshot%20(4).jpg?token=AP3ATLGRHOXVPKPWVIINJS27DWM5G)
+
