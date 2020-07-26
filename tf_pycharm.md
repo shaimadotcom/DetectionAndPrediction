@@ -1,7 +1,7 @@
 # <p align="center">تشغيل تنسرفلو في بايشارم</p>
 
 ## <div dir="rtl">المتطلبات</div> 
-#### <div dir="rtl">1. تحميلminiconda</div>
+#### <div dir="rtl">1. تحميل miniconda</div>
 ---------------------------------------------
 
 ####  <div dir="rtl">minicondaافتح نافذة جديدة في </div>
