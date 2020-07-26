@@ -59,3 +59,4 @@ model.compile(optimizer='adam',
   
    ###### <div dir="rtl">و الان يبدأ التدريب</div>
   
+![alt text]()
