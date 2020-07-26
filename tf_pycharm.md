@@ -1,13 +1,13 @@
 # <p align="center">تشغيل تنسرفلو في بايشارم</p>
 
 ## <div dir="rtl">المتطلبات</div> 
-#### <div dir="rtl">1.miniconda تحميل</div>
+#### <div dir="rtl">1. تحميلminiconda</div>
 ---------------------------------------------
 
 ####  <div dir="rtl">minicondaافتح نافذة جديدة في </div>
 ####  <div dir="rtl">اولا جيب أن تخلق بيئة جديدة في ميني كوندا عن طريق الأمر التالي </div>
 ```conda create -n tensorflow python=3.7```
-######  <div dir="rtl">تستطيع تغير الاسم و  نسخة بايثون ايضا بما يناسبك</div>
+######  <div dir="rtl">تستطيع تغير الاسم و  نسخة بايثون بما يناسبك</div>
 ####  <div dir="rtl">والأن فعلها </div>
 ```conda activate tensorflow```
 ####  <div dir="rtl">و الأن ثبت تنسرفلو بالنسخة اللتي تريدها</div>
