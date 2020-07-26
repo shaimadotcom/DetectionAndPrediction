@@ -23,7 +23,7 @@ fashion_mnist = keras.datasets.fashion_mnist
 
  ```
 
- ![سكرين](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(26).png?token=AP3ATLBRYMOK2DHIH6PXXSS7DWGJ6)
+ ![سكرين](https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/Screenshot%20(26).png?raw=true)
   
  #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين كماهو موضح "بيانات تدريب"و "وبيانات إختبار"</div>
   #### <div dir="rtl">و التقسيم يكون عبارة عن 20% من الصور في قسم الاختبار و80% في التدريب</div> 
