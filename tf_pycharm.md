@@ -32,7 +32,9 @@
 ![img1](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png?token=AP3ATLH7NO7LAGNDJL7JQ427DYKTK)
 
 
-![img2](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?token=AP3ATLHS4OPZY6RWEFASY227DYKWS)
+![alt](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?token=AP3ATLHS4OPZY6RWEFASY227DYKWS)
+
+![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(36).png?token=AP3ATLG2YS6E3XQOJV67F4K7DYLS4)
 
 
 -------------------------------------------------------------------------------------
