@@ -14,13 +14,16 @@ import matplotlib.pyplot as plt
  ```
 
 #### <div dir="rtl">سنستخدم مجموعة البيانات المزودة من قاعدة MNIST</div>
+#### <div dir="rtl">و التّي تعتبر المثال الأوّل، أو مثال "مرحبا يا عالم"</div> 
+ 
 ``` 
 fashion_mnist = keras.datasets.fashion_mnist
 
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
  ```
- #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين "بيانات تدريب"و "وبيانات إختبار" </div>
+ #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين "بيانات تدريب"و "وبيانات إختبار"</div>
+  #### <div dir="rtl">و التقسيم يكون عبارة عن 20% من الصور في قسم الاختبار و80% في التدريب</div> 
  
  #### <div dir="rtl">يتم تعيين اسم واحد لكل صورة (وتوجد9صور) ويتم حفظها "كمتغير" حتّى نتمكّن من إستخدامها لاحقا عند رسم النتائج أو البيانات أو الصّور</div>
  ``` 
@@ -59,4 +62,7 @@ model.compile(optimizer='adam',
   
    ###### <div dir="rtl">و الان يبدأ التدريب</div>
   
-![alt text]()
+![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(4).png?token=AP3ATLFOWS3ZC7JOBDI5VW27DWATO)
+
+   ###### <div dir="rtl">بعد أن ينتهي التدريب نقيس فعالية تدريب النموذج باستخدام بيانات الإختبار </div>
+  
