@@ -27,8 +27,9 @@
 ####  <div dir="rtl">6. عندما تبدأ بتشغيله سيطلب منك السماح بالدخول الى حسابك في مطوروابل ثم يجب أن تسمح له أيضابالدخول الى الايتونز والسماح له باستخدام كاميرة هاتفك </div>
 
 ====================================================================
- ![meh]()
- ![test image size](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/IMG_0378.jpg?token=AP3ATLGMRGT3KX5KZ7NRBJC7DW2WS){:height="50%" width="50%"}
+
+
+<img src="https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/IMG_0378.jpg?token=AP3ATLGMRGT3KX5KZ7NRBJC7DW2WS" width="100" height="100">
 
 
 
@@ -40,8 +41,6 @@
 
 
 
-
-
-
-ربما أضيف شرح لمثال الاندرويد ولكن لم أقم بتجربته بعد فحاليا لا أمتلك جهاز اندرويد  مع العلم أن مثال الاندرويد -بالنسبة لي- يبدوا أفضل واقل تعقيد 
+ 
+###### ربما أضيف شرح لمثال الاندرويد ولكن لم أقم بتجربته بعد فحاليا لا أمتلك جهاز اندرويد  مع العلم أن مثال الاندرويد -بالنسبة لي- يبدوا أفضل واقل تعقيد 
  
