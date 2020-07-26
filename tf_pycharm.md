@@ -19,4 +19,10 @@
    pip install Cython
    pip install contextlib2
    pip install jupyter
-   pip install matplotlib```
+   pip install matplotlib
+```
+
+###### <div dir="rtl">*تستطيع اختصار هذه الخطوات بتحميل ملف tensorflow.yaml*</div>
+================================================
+####  <div dir="rtl">افتح بايشارم واختر"مشروع جديد"</div>
+####  <div dir="rtl"></div>
