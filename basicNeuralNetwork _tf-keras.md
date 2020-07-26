@@ -73,7 +73,7 @@ model.compile(optimizer='adam',
 ```predictions = probability_model.predict(test_images)```
 
  ## <div dir="rtl">تجربة النموذج </div>
- 
+![سكرين](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(29).png?token=AP3ATLCOPWIXWO56YKMAUUK7DWLJ2)
  #### <div dir="rtl">لبدأ التجربة فقط أكتب الأمر التالي و سيبدأ بإظهار صورة مع المسمى اللذي تنبأ به و تحت الصورة سيظهر المسمى الصحيح وكل ماعليك فعله هو النقر على علامة x </div>
  #### <div dir="rtl">وستظهر لك صورة جديدة و تستطيع تكرار هذا لين تطفش ثم تستطيع إنهاء التجربة </div>
  
