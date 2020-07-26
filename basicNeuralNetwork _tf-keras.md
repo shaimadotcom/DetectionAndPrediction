@@ -22,16 +22,14 @@ fashion_mnist = keras.datasets.fashion_mnist
 (train_images, train_labels), (test_images, test_labels) = fashion_mnist.load_data()
 
  ```
- #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين "بيانات تدريب"و "وبيانات إختبار"</div>
+
+ ![سكرين](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(26).png?token=AP3ATLBRYMOK2DHIH6PXXSS7DWGJ6)
+  
+ #### <div dir="rtl"> ويجب أن تقسم البيانات لقسمين كماهو موضح "بيانات تدريب"و "وبيانات إختبار"</div>
   #### <div dir="rtl">و التقسيم يكون عبارة عن 20% من الصور في قسم الاختبار و80% في التدريب</div> 
  
  #### <div dir="rtl">يتم تعيين اسم واحد لكل صورة (وتوجد9صور) ويتم حفظها "كمتغير" حتّى نتمكّن من إستخدامها لاحقا عند رسم النتائج أو البيانات أو الصّور</div>
- ``` 
-class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
-               'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
-
-
- ```
+ 
  ![alt text](https://www.tensorflow.org/tutorials/keras/classification_files/output_oZTImqg_CaW1_0.png?hl=ar)
  #### <div dir="rtl">قبل البدأ بالتدريب يجب خفض قيمة البكسلات من نطاقها الحاليّ من 0 إلى 255 وذلك بقسمتها على 255</div>
  ``` 
@@ -54,6 +52,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
  ```
+ ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(27).png?token=AP3ATLDOMRYRD5C5UARX2CK7DWKWG)
   ###### <div dir="rtl">ساستخدم خوارزمية ادم لانه يحقق نتائج جيدة بسرعة</div>
   ==========================================================================
    
@@ -65,4 +64,12 @@ model.compile(optimizer='adam',
 ![meh](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(4).png?token=AP3ATLFOWS3ZC7JOBDI5VW27DWATO)
 
    ###### <div dir="rtl">بعد أن ينتهي التدريب نقيس فعالية تدريب النموذج باستخدام بيانات الإختبار </div>
-  
+   ```test_loss, test_acc = model.evaluate(test_images,  test_labels, verbose=2)```
+
+```print('\nTest accuracy:', test_acc) ```
+
+
+  ###### <div dir="rtl">يمكنك الان بعد انهاء تدريب نموذجك أن تجعله يقوم بتنبأت وكل تنبؤ  يكون داخل صفيفة متكوّن من 10 أرقام. و هي تمثّل مدى ثقة النموذج بأنّ الصورة تتوافق مع كل صورة و تسميتها</div>
+```predictions = probability_model.predict(test_images)```
+
+ #### <div dir="rtl">لتجربة </div>
