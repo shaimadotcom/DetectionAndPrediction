@@ -26,15 +26,15 @@
 ================================================
 ####  <div dir="rtl">افتح بايشارم واختر"مشروع جديد"</div>
 
-![img](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(31).png?token=AP3ATLHY2TBXGTKATS7TTMS7DYKRQ)
+![img](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(31).png?raw=true)
 
 
-![img1](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png?token=AP3ATLH7NO7LAGNDJL7JQ427DYKTK)
+![img1](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png??raw=true)
 
 
-![alt](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?token=AP3ATLHS4OPZY6RWEFASY227DYKWS)
+![alt](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?raw=true)
 
-![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(36).png?token=AP3ATLG2YS6E3XQOJV67F4K7DYLS4)
+![im](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(36).png?raw=true)
 
 
 -------------------------------------------------------------------------------------
