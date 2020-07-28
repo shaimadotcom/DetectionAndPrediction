@@ -36,9 +36,18 @@
 
 
 
-<img src="https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/IMG_0378.jpg?raw=true" width="148" height="250>
+<img src="https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/IMG_0378.jpg?raw=true" width="148" height="250">
 
-<img src="https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/IMG_0374.jpg?raw=true" width="148" height="250>
+
+
+
+
+<img src="https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/IMG_0374.jpg?raw=true" width="148" height="250">
+
+
+
+
+
 
 <img src="https://github.com/shaimadotcom/TensorFlow/blob/master/screenshots/IMG_0375.jpg?raw=true" width="148" height="250">
 
