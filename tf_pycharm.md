@@ -27,15 +27,30 @@
 ####  <div dir="rtl">افتح بايشارم واختر"مشروع جديد"</div>
 
 
-![img](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(31).png?raw=true)
+![img](https://github.com/shaimadotcom/DetectionAndPrediction/blob/master/screenshots/Screenshot%20(31).png?raw=true)
 
 
-![img1](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(32).png??raw=true)
 
 
-![alt](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(34).png?raw=true)
 
-![img3](https://raw.githubusercontent.com/shaimadotcom/TensorFlow/master/screenshots/Screenshot%20(36).png?token=AP3ATLG2YS6E3XQOJV67F4K7DYLS4)
+
+
+![img1](https://github.com/shaimadotcom/DetectionAndPrediction/blob/master/screenshots/Screenshot%20(32).png?raw=true)
+
+
+
+
+
+
+
+![alt](https://github.com/shaimadotcom/DetectionAndPrediction/blob/master/screenshots/Screenshot%20(34).png?raw=true)
+
+
+
+
+
+
+![img3](https://github.com/shaimadotcom/DetectionAndPrediction/blob/master/screenshots/Screenshot%20(36).png?raw=true)
 
 -------------------------------------------------------------------------------------
 ####  <div dir="rtl">انتهينا و الان كل ما أردت استخدام تنسرفلو يجيب تفعيل البيئة التي خلقتها أولا قبل فتح المشروع في بايشارم</div>
