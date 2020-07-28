@@ -1,4 +1,4 @@
-# <p align="center">كشف الأجسام على الفيديو Lite</p>
+# <p align="center">كشف الأجسام على الفيديو</p>
 
 
 ### <div dir="rtl">[ بإستخدام الجوجل درايف](https://github.com/shaimadotcom/DetictionAndPrediction/blob/master/ObjectDetectionOnVideo/objdetection_tut.mp4)</div>
